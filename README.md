@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subhrm
 - 👀 I’m interested in Data Scince, Machine Learning, Python, Web Developement and lots of other stuff  
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently practicing Machine Learning
 - 💞️ I’m looking to collaborate on any interesting project
 - 📫 How to reach me ... @subhendu on Twitter 
 
